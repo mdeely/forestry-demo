@@ -31,3 +31,6 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
