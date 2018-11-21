@@ -37,4 +37,5 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/person.html
 - _people/marc-deely.html
